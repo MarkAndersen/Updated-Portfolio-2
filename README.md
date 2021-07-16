@@ -5,16 +5,16 @@ Updated portfolio utilizing CSS libraries and including more recent work. This w
 ## Examples
 
 ### Page on large screens
-![Screenshot](./assets/images/1.png)
-![Screenshot](./assets/images/2.png)
+![Screenshot](./assets/images/1.PNG)
+![Screenshot](./assets/images/2.PNG)
 
 ### Modal with Contact Info
-![Screenshot](./assets/images/3.png)
+![Screenshot](./assets/images/3.PNG)
 
 ### Mobile ready version with collapsed navbar and realigned jumbotron
-![Screenshot](./assets/images/4.png)
+![Screenshot](./assets/images/4.PNG)
 
-![Screenshot](./assets/images/5.png)
+![Screenshot](./assets/images/5.PNG)
 
 
 ## Links
